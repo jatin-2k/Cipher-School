@@ -1,3 +1,23 @@
+# Timer
+
+![Timer](./public/img_first.jpg)
+
+# On Timer Start
+
+![On Start](./public/img_start.jpg)
+
+# On Timer Pause
+
+![On Pause](./public/img_pause.jpg)
+
+# On Timer Resume
+
+![On Resume](./public/img_resume.jpg)
+
+# On Timer Reset
+
+![On Reset](./public/img_reset.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
